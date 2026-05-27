@@ -1,5 +1,5 @@
 let nombreCompleto = 'Maximiliano Soria';
-let edad = '26';
+let edad = 26;
 const carrera = 'Tecnicatura Superior en Desarrollo de Software';
 const cursando  = 'true';
  
